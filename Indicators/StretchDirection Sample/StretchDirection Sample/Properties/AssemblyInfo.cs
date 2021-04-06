@@ -2,10 +2,10 @@
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Control Style Sample")]
+[assembly: AssemblyTitle("StretchDirection Sample")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyProduct("Control Style Sample")]
+[assembly: AssemblyProduct("StretchDirection Sample")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
